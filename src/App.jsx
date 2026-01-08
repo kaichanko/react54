@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback, memo } from 'react';
 
-// 1. 音源のパス指定（public/sounds/ フォルダ内のファイル名と一致させてください）
 const DRUM_SAMPLES = {
   kick: '/sounds/drum1_kick.mp3',
   snare: '/sounds/drum1_snare.mp3',
