@@ -1,0 +1,30 @@
+{
+  "name": "react-tutorial1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaichanko/react-tutorial1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaichanko/react-tutorial1/issues"
+  },
+  "homepage": "https://github.com/kaichanko/react-tutorial1#readme",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.1.1",
+    "vite": "^7.2.4"
+  }
+}

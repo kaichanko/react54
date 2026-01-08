@@ -137,7 +137,7 @@ const App = () => {
     <div style={styles.container}>
       <canvas ref={canvasRef} style={styles.canvas} />
       <div style={styles.uiOverlay}>
-        <h1 style={styles.title}>Visual Beat Maker 🥁</h1>
+        <h1 style={styles.title}>Visual Drums Maker 🥁</h1>
         
         <div style={styles.padContainer}>
           {Object.keys(DRUM_SAMPLES).map((name) => (
